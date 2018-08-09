@@ -5,7 +5,7 @@ import java.util.Scanner;
 public class FibboExample {
 	
 	public static void main(String[] args) {
-		
+		//Enter two number for num1 n num2
 		int num1=1, num2=1;
 		
 		//Enter numbers 
