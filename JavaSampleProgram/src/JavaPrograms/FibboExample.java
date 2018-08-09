@@ -16,7 +16,7 @@ public class FibboExample {
 		System.out.print(num1 + ", " + num2 + ", ");
 		
 		for(int i =0;i<=num;i++)
-		{
+		{//Enter numbers 
 			
 			num2= num1 + num2;
 			int temp = num1;
